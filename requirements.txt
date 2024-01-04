@@ -1,0 +1,15 @@
+uvicorn
+pydantic
+cmake
+lit
+fastapi
+sse_starlette
+transformers==4.33.1
+sentencepiece
+accelerate
+openpyxl
+loguru
+text2vec
+gensim
+annoy
+streamlit

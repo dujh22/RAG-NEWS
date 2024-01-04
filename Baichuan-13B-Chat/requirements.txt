@@ -1,0 +1,5 @@
+accelerate
+colorama
+cpm_kernels
+sentencepiece
+streamlit
